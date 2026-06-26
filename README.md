@@ -1,4 +1,4 @@
-# 01 - SQL Business Analytics
+# SQL Business Analytics Portfolio
 
 ## Overview
 
