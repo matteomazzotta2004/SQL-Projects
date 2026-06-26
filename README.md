@@ -1,5 +1,4 @@
 # SQL Business Analytics Portfolio
-
 ## Overview
 
 This repository contains SQL projects focused on solving real business problems through data analysis.
